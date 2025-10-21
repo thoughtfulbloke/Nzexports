@@ -460,9 +460,7 @@ graphbase +
 ![](README_files/figure-commonmark/therap-1.png)
 
 Therapeutic breathing devices have no volume of exports, just value, so
-the second graph fails. Which I assume is describing F&P sleep apnoea
-devices sold out of NZ but manufactured elsewhere. Which is an
-interesting quirk in the data. A pretty unchanged category in recent
+the second graph fails. I have been advised this is due to the complicated nature of it being a mix of parts and units as described in https://www.customs.govt.nz/media/fatihnhe/section-xviii.pdf . A pretty unchanged category in recent
 years.
 
 ``` r
